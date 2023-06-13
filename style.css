@@ -1,0 +1,20 @@
+html,body,h1,h2,h3,h4,h6 {font-family:"Lato", sans-serif}
+    .mySlides {display:none}
+    .w3-tag, .fa {cursor:pointer}
+    .w3-tag {height:15px;width:15px;padding:0;margin-top:6px}
+    
+    .title{
+        font-size:75px;
+    }
+
+    body {font-family: Arial, Helvetica, sans-serif;}
+    
+    .navigation{
+    width: 100%;
+    text-align: center;
+    background-color: #CEE3F6; 
+}
+
+.center {
+  text-align: center;
+}
